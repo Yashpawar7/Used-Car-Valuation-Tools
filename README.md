@@ -1,1 +1,3 @@
 # Used-Car-Valuation-Tools
+## Led end-to-end car-price forecasting using a 20+ feature dataset, selecting the top 10 predictors via initial modeling in SPSS Modeler and R. Conducted rigorous EDA (univariate/bivariate plots, outlier and missing-value treatment), engineered features, and benchmarked multiple regression and tree-based models with clear performance metrics. Delivered a stakeholder-centric report outlining predictive accuracy, error-cost analysis, and actionable insights for pricing strategy.
+Skills: IBM SPSS · Statistical Modeling · Basic Python/R for Data Analysis · Data Analysis & Visualization · Report Writing & Presentation
